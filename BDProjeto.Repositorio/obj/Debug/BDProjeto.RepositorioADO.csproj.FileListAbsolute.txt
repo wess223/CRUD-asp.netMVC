@@ -1,0 +1,9 @@
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csprojAssemblyReference.cache
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.RepositorioADO.csproj.CopyComplete
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\BDProjeto.Repositorio\obj\Debug\BDProjeto.Repositorio.pdb

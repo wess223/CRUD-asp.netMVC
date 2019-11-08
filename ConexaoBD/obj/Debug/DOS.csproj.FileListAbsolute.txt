@@ -1,0 +1,13 @@
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.aplicacao.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.dll
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.aplicacao.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Dominio.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\bin\Debug\BDProjeto.Repositorio.pdb
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\obj\Debug\DOS.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\obj\Debug\DOS.csproj.CopyComplete
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\Wesley Alves\source\repos\BDProjeto\ConexaoBD\obj\Debug\ConexaoBD.pdb
